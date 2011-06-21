@@ -262,7 +262,7 @@
     `(font-lock-function-name-face ((t (:foreground ,zenburn-blue))))
     '(font-lock-keyword-face ((t (:inherit 'zenburn-primary-1))))
     '(font-lock-negation-char-face ((t (:inherit 'zenburn-primary-1))))
-    '(font-lock-preprocessor-face ((t (:inherit 'zenburn-blue))))
+    '(font-lock-preprocessor-face ((t (:inherit 'zenburn-red))))
     '(font-lock-string-face ((t (:inherit 'zenburn-red))))
     '(font-lock-type-face ((t (:inherit 'zenburn-primary-3))))
     `(font-lock-variable-name-face ((t (:foreground ,zenburn-yellow))))
