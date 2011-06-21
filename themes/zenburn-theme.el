@@ -520,7 +520,7 @@
     
     ;; show-paren
     '(show-paren-mismatch ((t (:inherit font-lock-warning :weight bold))))
-    `(show-paren-match ((t (:background ,zenburn-blue-5 :underline t))))
+    `(show-paren-match ((t (:background ,zenburn-blue-5 :underline nil))))
 
     ;; setnu
     '(setnu-line-number ((t (:inherit 'zenburn-lowlight-2))))
