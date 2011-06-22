@@ -346,7 +346,7 @@
     '(highlight-current-line ((t (:inherit 'zenburn-highlight-subtle))))
 
     ;; hightlight the current line
-    `(hl-line ((t (:underline nil :background ,zenburn-bg-1))))
+    `(hl-line ((t (:inherit nil :background ,zenburn-bg-1))))
     
     ;; holiday
     '(holiday ((t (:underline t :inherit 'zenburn-primary-4))))
