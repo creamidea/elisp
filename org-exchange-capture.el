@@ -8,7 +8,7 @@
 ;; using 'org-capture'.
 
 ;; The idea is that you select (mark) the parts of the email you want to add to
-;; your org-todo item, and then invoke M-x djcb-capture-exchange-invite; 
+;; your org-todo item, and then invoke M-x djcb-capture-exchange-invite;
 
 ;; Some caveats:
 
@@ -32,7 +32,7 @@
 
 ;;  - it requires org-capture, which is fairly new; it should be easy to support
 ;;    org-remember as well though. Also, I only tested with Wanderlust as e-mail
-;;    client; it *should* work with others as well though... 
+;;    client; it *should* work with others as well though...
 
 ;; Note that that the message buffer must be the active buffer;
 ;; ie. it won't work in the 'Summary' (Wanderlust)
